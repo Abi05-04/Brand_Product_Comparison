@@ -8,7 +8,8 @@ A real-time web application that compares products from two brands using Google 
 * Store links
 * Data analytics charts
 * User-friendly Streamlit UI
-  
+
+
 ## 🛠️ Technologies Used 
 * Python
 * Streamlit
@@ -30,10 +31,12 @@ streamlit run compareprompt.py
 ## 📸 Screenshots
 
 ### Dashboard Home
-![Dashboard Home](dashboard.png)
+<img width="1920" height="1080" alt="Screenshot (155)" src="https://github.com/user-attachments/assets/1929c332-c320-4300-b803-c1785e2c81b8" />
 
 ### Comparison Results
-![Comparison Results](comparison.png)
+<img width="1920" height="1080" alt="Screenshot (157)" src="https://github.com/user-attachments/assets/b0f3d531-d1fc-4826-b2a0-ad4de94763f3" />
+
+
 
 ## 👩‍💻 Developed By
 
