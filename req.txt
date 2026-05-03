@@ -1,0 +1,10 @@
+requests
+fastmcp
+wikipedia
+langchain
+langchain-huggingface
+python-dotenv
+streamlit
+matplotlib
+pandas
+google-search-results
